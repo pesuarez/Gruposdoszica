@@ -1,4 +1,4 @@
-import from augusto maior
-import from pedro ler_lista
+from augusto import maior
+from pedro import ler_numeros
 
-print(maior(ler_lista(10))
+print(maior(ler_numeros(10)))
